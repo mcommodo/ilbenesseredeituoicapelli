@@ -1,0 +1,20 @@
+SITO PARRUCCHIERE MINA — FILE PER IL COLLABORATORE
+
+COME VISUALIZZARE IL SITO
+1. Aprire la cartella.
+2. Fare doppio clic su "index.html".
+3. Il sito si aprirà nel browser.
+
+FILE INCLUSI
+- index.html: file principale del sito.
+- Sito_MINA.html: copia singola pronta da aprire o inviare direttamente.
+- logo_MINA.png: logo ufficiale utilizzato nel sito.
+
+NOTE
+- Le immagini principali del sito sono incorporate direttamente nel file HTML, quindi non è necessario collegare cartelle esterne per visualizzarle.
+- I pulsanti WhatsApp, Instagram e Google Maps richiedono una connessione internet per aprire i relativi servizi.
+- Per pubblicare il sito online, il file principale da usare è index.html.
+
+Contatti configurati nel sito:
+WhatsApp: 333 408 4358
+Instagram: @ilbenesseredeituoicapelli
